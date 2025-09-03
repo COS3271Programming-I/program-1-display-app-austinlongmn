@@ -1,9 +1,5 @@
 # Program #1: Display APP
 
-## Sample Run
+## Info
 
-```
-Where the Spirit of the Lord is,
-                       there is FREEDOM.
-	2 Corinthians 3:17b
-```
+You can find code and sample runs at [`program.docx`](program.docx).
